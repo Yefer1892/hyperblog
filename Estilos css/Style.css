@@ -10,7 +10,7 @@ html {
     margin-top: 10px;
     list-style: none;
     padding-left: 0;   
-    background-color: aquamarine;
+    background-color: rgb(177, 42, 141);
 }
 .nav li {
     display: inline-block;
