@@ -26,3 +26,15 @@ html {
 .main-nav__item::after {
     content: " | ";
 }
+.imagen1 {
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.decoracion {
+    font-size: 2rem;
+    color: white;
+    background-color: red;
+    width: 30rem;
+    text-align: center;
+    
+}
